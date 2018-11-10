@@ -5,4 +5,4 @@ steps:
 artifacts:
   objects:
     location: 'gs://cloudbuildhello/'
-    paths: ['./sample_artifact.txt']
+    paths: ['web', './sample_artifact.txt']
